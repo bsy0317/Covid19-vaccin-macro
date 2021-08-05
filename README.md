@@ -9,7 +9,7 @@
  - `PHONE` 변수는 `하이픈('-')`을 포함한 전화번호 11자리
  - `START_TIME` 변수는 `GMT 기준`으로 사전예약 접수 시작시간
  - `DEBUG` 변수는 시작시간을 무시하고 진행함
- - `NF_PASS` Netfunell 통과
+ - `NF_PASS` Netfunnel 통과
  
 ## 필요 라이브러리
 
